@@ -1,4 +1,4 @@
 streamlit
-opencv-python
+opencv-python-headless  # Use headless version for cloud/server environments (no GUI needed)
 moviepy
 numpy
